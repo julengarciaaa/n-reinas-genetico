@@ -13,8 +13,8 @@ El proyecto está desarrollado en un **Jupyter Notebook**, lo que permite ver pa
 ## Uso
 1. Clonar el repositorio:  
 ```bash
-git clone https://github.com/julengarciaaa/n-reinas-genetico.git
+git clone https://github.com/julengarciaaa/n-reinas-genetico.git```
 
 2. Abrir el notebook:
 ```bash
-jupyter notebook problema_n_reinas.ipynb
+jupyter notebook problema_n_reinas.ipynb```
