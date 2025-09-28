@@ -13,4 +13,4 @@ El proyecto está desarrollado en un **Jupyter Notebook**, lo que permite ver pa
 ## Uso
 1. Clonar el repositorio:  
 ```bash
-git clone <URL_DEL_REPOSITORIO>
+git clone https://github.com/julengarciaaa/n-reinas-genetico.git
